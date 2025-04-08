@@ -40,6 +40,8 @@ Each folder focuses on a core React concept:
 ## 📺 Credits
 Big thanks to [Bro Code](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=7243s) for the awesome React tutorials!
 
+**Happy coding! 💻🔥**
+
 ### Links
 [LinkedIn](https://www.linkedin.com/in/harmandeep01/)
 
